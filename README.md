@@ -8,7 +8,7 @@ For long-term therapeutic conditions such as brain tumors and breast cancer, dif
 ## Framework
 <div align="center">
 <iframe 
-src="https://github.com/XWei98/MedicalSAC/edit/main/intro.pdf"
+src="[https://github.com/XWei98/MedicalSAC/edit/main/intro.pdf](https://github.com/XWei98/MedicalSAC/blob/main/intro.pdf)"
 width="1000" 
 height="700"
 frameborder="0">
