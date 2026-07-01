@@ -1,0 +1,5 @@
+growth（标签0）的mDSC: 0.6174
+reduction（标签1）的mDSC: 0.6561
+unchange（标签2）的mDSC: 0.8953
+
+三类平均 mDSC: 0.7229

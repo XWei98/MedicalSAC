@@ -1,0 +1,5 @@
+growth（标签0）的mIoU: 0.4704
+reduction（标签1）的mIoU: 0.5125
+unchange（标签2）的mIoU: 0.8247
+
+三类平均 mIoU: 0.6025
