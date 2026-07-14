@@ -13,8 +13,8 @@ For long-term therapeutic conditions such as brain tumors and breast cancer, dif
 Our project does not depend on installing SAM2. If you have already configured an environment for SAM2, then directly using this environment should also be fine. You may also create a new conda environment:
 
 ```shell
-conda create -n sam2-unet python=3.10
-conda activate sam2-unet
+conda create -n sam2 python=3.10
+conda activate sam2
 pip install -r requirements.txt
 ```
 
